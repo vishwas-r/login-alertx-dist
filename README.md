@@ -1,6 +1,6 @@
-﻿# Login AlertX Distribution Repository
+# Login AlertX Distribution Repository
 
-[![Latest Release](https://img.shields.io/badge/Release-v4.3.1-blue.svg)](https://github.com/vishwas-r/login-alertx-dist)
+[![Latest Release](https://img.shields.io/badge/Release-v4.4.0-blue.svg)](https://github.com/vishwas-r/login-alertx-dist)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)](https://github.com/vishwas-r/login-alertx-dist)
 [![Runtime](https://img.shields.io/badge/.NET-10.0-512BD4.svg)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
@@ -36,17 +36,17 @@ Optimized for headless servers, cloud infrastructure, and remote environments.
 
 ---
 
-## Latest Release: v4.3.1
+## Latest Release: v4.4.0
 
-Release Date: October 23, 2026
+Release Date: October 31, 2026
 
 ### Desktop Edition Packages
 
 | Platform | Architecture | Package Format | Download Link | SHA-256 Checksum |
 |---|---|---|---|---|
-| Windows | x64 / ARM64 | Installer (`.exe`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.3.1.exe) | `2e0ec5a2c39f712c3adeca4e84d0220b56c081426c6db03da07ac6d341c8fb84` |
-| Linux | x64 | Debian / Ubuntu (`.deb`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.3.1.deb) | `049774a18d558fc32bfb263799e98c6ff08a6b82b8913e411dd15f3cb003da92` |
-| Linux | x64 | Portable Archive (`.tar.gz`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.3.1.tar.gz) | `74f6701ee098b7bd85bbbc92be4332ab76345abd301dba16f92ea8659b47e985` |
+| Windows | x64 / ARM64 | Installer (`.exe`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.4.0.exe) | `2e0ec5a2c39f712c3adeca4e84d0220b56c081426c6db03da07ac6d341c8fb84` |
+| Linux | x64 | Debian / Ubuntu (`.deb`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.4.0.deb) | `049774a18d558fc32bfb263799e98c6ff08a6b82b8913e411dd15f3cb003da92` |
+| Linux | x64 | Portable Archive (`.tar.gz`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.4.0.tar.gz) | `74f6701ee098b7bd85bbbc92be4332ab76345abd301dba16f92ea8659b47e985` |
 
 ### Server Edition Packages
 
@@ -62,7 +62,8 @@ Release Date: October 23, 2026
 
 | Version | Release Date | Desktop Packages | Server Packages | Release Focus |
 |---|---|---|---|---|
-| **v4.3.1** | 2026-10-23 | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.3.1.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.3.1.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.3.1.tar.gz) | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-server-setup-v4.3.1.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-server-setup-v4.3.1.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-server-setup-v4.3.1.tar.gz) | Multi-recipient email alerts, automated audit policy verification, delivery health diagnostics, Windows failed login fix, and Linux CLI startup fix |
+| **v4.4.0** | 2026-10-31 | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.0/loginalertx-setup-v4.4.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.0/loginalertx-setup-v4.4.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.0/loginalertx-setup-v4.4.0.tar.gz) | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.0/loginalertx-server-setup-v4.4.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.0/loginalertx-server-setup-v4.4.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.0/loginalertx-server-setup-v4.4.0.tar.gz) | Telegram native integration, WhatsApp Computer Name alerts, HMAC-signed payloads, public IP fix, smart duplicate suppression, security patch (Pkcs CVE) |
+| **v4.3.1** | 2026-10-23 | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.4.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.4.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-setup-v4.4.0.tar.gz) | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-server-setup-v4.3.1.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-server-setup-v4.3.1.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.1/loginalertx-server-setup-v4.3.1.tar.gz) | Multi-recipient email alerts, automated audit policy verification, delivery health diagnostics, Windows failed login fix, and Linux CLI startup fix |
 | **v4.3.0** | 2026-10-12 | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.0/loginalertx-setup-v4.3.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.0/loginalertx-setup-v4.3.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.0/loginalertx-setup-v4.3.0.tar.gz) | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.0/loginalertx-server-setup-v4.3.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.0/loginalertx-server-setup-v4.3.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.3.0/loginalertx-server-setup-v4.3.0.tar.gz) | Generic Webhook alerts, delivery health monitoring, modernized settings UI, 30-day trial |
 | **v4.2.0** | 2026-09-29 | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.2.0/loginalertx-setup-v4.2.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.2.0/loginalertx-setup-v4.2.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.2.0/loginalertx-setup-v4.2.0.tar.gz) | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.2.0/loginalertx-server-setup-v4.2.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.2.0/loginalertx-server-setup-v4.2.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.2.0/loginalertx-server-setup-v4.2.0.tar.gz) | Storage Management UI, custom retention policies, Microsoft Store license synchronization |
 | **v4.1.0** | 2026-09-20 | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.1.0/loginalertx-setup-v4.1.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.1.0/loginalertx-setup-v4.1.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.1.0/loginalertx-setup-v4.1.0.tar.gz) | [EXE](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.1.0/loginalertx-server-setup-v4.1.0.exe) \| [DEB](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.1.0/loginalertx-server-setup-v4.1.0.deb) \| [TAR](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.1.0/loginalertx-server-setup-v4.1.0.tar.gz) | Multi-channel media attachments, Slack dual-mode webhook/bot, machine-learning anomaly scoring |
@@ -79,13 +80,13 @@ Release Date: October 23, 2026
 Run the executable installer with administrative privileges:
 
 ```cmd
-loginalertx-setup-v4.3.1.exe
+loginalertx-setup-v4.4.0.exe
 ```
 
 For silent enterprise deployments:
 
 ```cmd
-loginalertx-setup-v4.3.1.exe /VERYSILENT /NORESTART
+loginalertx-setup-v4.4.0.exe /VERYSILENT /NORESTART
 ```
 
 ### Linux (Debian / Ubuntu)
@@ -93,7 +94,7 @@ loginalertx-setup-v4.3.1.exe /VERYSILENT /NORESTART
 Install using the Debian package manager:
 
 ```bash
-sudo dpkg -i loginalertx-setup-v4.3.1.deb
+sudo dpkg -i loginalertx-setup-v4.4.0.deb
 sudo apt-get install -f
 ```
 
@@ -108,7 +109,7 @@ sudo systemctl status loginalertx
 Extract the `.tar.gz` package to the desired destination:
 
 ```bash
-sudo tar -xzf loginalertx-setup-v4.3.1.tar.gz -C /opt/loginalertx
+sudo tar -xzf loginalertx-setup-v4.4.0.tar.gz -C /opt/loginalertx
 cd /opt/loginalertx
 sudo ./install.sh
 ```
@@ -122,13 +123,13 @@ To verify the integrity of downloaded binaries, compare the computed SHA-256 che
 ### Windows (PowerShell)
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\loginalertx-setup-v4.3.1.exe
+Get-FileHash -Algorithm SHA256 .\loginalertx-setup-v4.4.0.exe
 ```
 
 ### Linux / macOS
 
 ```bash
-sha256sum loginalertx-setup-v4.3.1.deb
+sha256sum loginalertx-setup-v4.4.0.deb
 ```
 
 ---

@@ -44,17 +44,17 @@ Release Date: November 11, 2026
 
 | Platform | Architecture | Package Format | Download Link | SHA-256 Checksum |
 |---|---|---|---|---|
-| Windows | x64 / ARM64 | Installer (`.exe`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-setup-v4.4.1.exe) | `42e3a1c095500591c775729acba9338326c4c7929f2bcf94d10f7df4919422e1` |
-| Linux | x64 | Debian / Ubuntu (`.deb`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-setup-v4.4.1.deb) | `74d2e61429be42c283e5f6c563dd233c5acf83e64622fedaf1f25ccdbda22562` |
-| Linux | x64 | Portable Archive (`.tar.gz`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-setup-v4.4.1.tar.gz) | `b3462f247945133cd6722eef07e464db219e26b40f2a9ffaf6205ac0959587cc` |
+| Windows | x64 / ARM64 | Installer (`.exe`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-setup-v4.4.1.exe) | `dd4abdb1f9266921b204f15412a37e4cb2a4e81649aaeb52b8318b65867ff794` |
+| Linux | x64 | Debian / Ubuntu (`.deb`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-setup-v4.4.1.deb) | `ecd5f80d1e6aa4a0159d4ff4ecf1ad276966261d95c60967260aa06134b96eb5` |
+| Linux | x64 | Portable Archive (`.tar.gz`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-setup-v4.4.1.tar.gz) | `822fb5b841ab05e68936f0c228f0d39df663bb143c84d2301fc87ee3b3d5a7d3` |
 
 ### Server Edition Packages
 
 | Platform | Architecture | Package Format | Download Link | SHA-256 Checksum |
 |---|---|---|---|---|
-| Windows | x64 / ARM64 | Installer (`.exe`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-server-setup-v4.4.1.exe) | `762f2f50decc4ba74dd7c44121b8667aee29585a5cbdfcad23e31b3c477c7d9b` |
-| Linux | x64 | Debian / Ubuntu (`.deb`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-server-setup-v4.4.1.deb) | `a16addbd297853bd30c079fd5825965145a8d384d4c20f89f765866d60c7a4e1` |
-| Linux | x64 | Portable Archive (`.tar.gz`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-server-setup-v4.4.1.tar.gz) | `73884c5a45f903a3b9846645ea5d4b73735d2b45a324c0f38597a039997cee3d` |
+| Windows | x64 / ARM64 | Installer (`.exe`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-server-setup-v4.4.1.exe) | `f21ea7932ef9d56aafbacf70172f99947a349aaf708aa2df429ab902ac0e0bce` |
+| Linux | x64 | Debian / Ubuntu (`.deb`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-server-setup-v4.4.1.deb) | `3dd1a8a1d3c1966593d34d95ed5728e393a98eef4754afd0436efa1c83a34294` |
+| Linux | x64 | Portable Archive (`.tar.gz`) | [Download](https://github.com/vishwas-r/login-alertx-dist/releases/download/v4.4.1/loginalertx-server-setup-v4.4.1.tar.gz) | `bf85e0329118a054b06cc4c0f658a8957095c9aee72e4ac07970798ad4230245` |
 
 ---
 
